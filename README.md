@@ -1,4 +1,3 @@
-# Project-4
 Unveiling Insights into Olympic Athlete Profiles: A Holistic Exploration of Attributes and Trends.
 # Abstract:
 This project delves into a comprehensive analysis of Olympic athlete data, focusing on various aspects such as age, height, weight, and sport type. Utilizing data visualization techniques and statistical analysis, we uncover insights into athlete distributions, outliers, correlations, and trends. By understanding these factors, this project aims to provide valuable insights into the characteristics of Olympic athletes over the years.
